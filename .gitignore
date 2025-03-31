@@ -1,0 +1,28 @@
+# Dependências
+node_modules
+package-lock.json
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Diretório de autenticação do WhatsApp
+auth_info_baileys/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Diretórios IDE/Editor
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace 
